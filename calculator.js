@@ -207,5 +207,5 @@ if( isValidOperation(operation) ){
 
 else {
   console.log("Invalid operation. Use: add, subtract, multiply, or divide");
-  return;
+
 }
